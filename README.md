@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuj
 
-<!--
-**anuj-777/anuj-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer studying my undergraduate degree in Amrita Vishwa Vidyapeetham
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- Java
+- Javascript
+
+### Scripting Languages
+- HTML
+- CSS
+
+### Tools
+- Git
+- Github
+- VS Code
+
+
+## Projects
+- [Tourist places in pollachi](https://xers.in/UID/CBSCU4CSE23507/Personal%20Portfolio/projects/Pollachi%20tourism%20webpage/index.html)
+- [Guess the Number](https://xers.in/UID/CBSCU4CSE23507/Personal%20Portfolio/projects/guess%20the%20number/index.html)
+- [Kodaikanal](https://xers.in/UID/CBSCU4CSE23507/Personal%20Portfolio/projects/kodai/index.html)
+- [Hand Cricket](https://xers.in/UID/CBSCU4CSE23507/Personal%20Portfolio/projects/hand%20cricket/index.html)
+
+## Contact me
+- Email : anujamirthalingam1@gmail.com
+- LinkedIn : [Anuj Amirthalingam](https://www.linkedin.com/in/anuj-amirthalingam-8060bb291/)
+- Personal Website : [Anuj](https://xers.in/UID/CBSCU4CSE23507/Personal%20Portfolio/main.html)
