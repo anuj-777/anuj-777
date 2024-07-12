@@ -2,7 +2,7 @@
 
 I'm a passionate software developer studying my undergraduate degree in Amrita Vishwa Vidyapeetham
 
-## Skills and Technologies
+## 🚀Skills and Technologies
 
 ### Programming Languages
 - Python
